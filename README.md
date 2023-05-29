@@ -1,0 +1,1 @@
+Kavach - An advanced fake news detecting app
